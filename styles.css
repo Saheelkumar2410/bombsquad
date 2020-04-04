@@ -54,6 +54,7 @@ font-family: 'Fredericka the Great', cursive;
   width: 250px;
   height: 300px;
   float: left;
+  margin: 20px;
   }
 
 .general{
@@ -63,6 +64,11 @@ font-family: 'Fredericka the Great', cursive;
 
 .info{
   padding: 1.5% 15%;
+}
+
+#devil .profile_img{
+  float: left;
+  margin: 20px;
 }
 
 #yadav{
@@ -100,6 +106,10 @@ hr{
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
+}
+
+.info{
+
 }
 
 #footer{
