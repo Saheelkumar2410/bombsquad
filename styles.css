@@ -1,0 +1,109 @@
+body{
+
+ font-family: 'Gotu', sans-serif;
+ text-align: center;
+ }
+
+ h1{
+   color: #fff;
+   padding: 7% 15%;
+ }
+
+/* NAVIGATION BAR */
+.navbar{
+  padding: 1rem 0 1rem;
+}
+
+.navbar-brand{
+font-family: 'Fredericka the Great', cursive;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+  font-family: 'Fredericka the Great', cursive;
+  color: #ff4c68;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+
+}
+
+.b_squad{
+  height: 1000px;
+  width: 1600px;
+  padding: 2% 0;
+}
+
+ /* TITLE */
+
+#title{
+  text-align: center;
+  background-color: #ff4c68;
+}
+
+.title-img{
+  height: 400px;
+  width: 600px;
+}
+
+/* CONTENT */
+.profile_img{
+  width: 250px;
+  height: 300px;
+  float: left;
+  }
+
+.general{
+  padding: 0 4rem;
+}
+
+
+.info{
+  padding: 1.5% 15%;
+}
+
+#yadav{
+background-color: #ff4c68;
+color: #fff;
+}
+
+#ninjanick{
+background-color: #ff4c68;
+color: #fff;
+}
+
+#winster{
+background-color: #ff4c68;
+color: #fff;
+}
+
+#utk{
+background-color: #ff4c68;
+color: #fff;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  height: 0;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.personal_description{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+#footer{
+  padding: 7% 15%;
+  background-color: #ff4c68;
+  color: #fff;
+}
